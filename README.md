@@ -1,6 +1,6 @@
 # expense_tracker
 
-# 💰 Expense Tracker App 
+# 💰 Expense Tracker 
 
 This is a Expense Tracker that helps users manage their daily expenses and income. It allows users to record transactions, view summaries, and track financial activity efficiently.
 
@@ -23,6 +23,9 @@ This is a Expense Tracker that helps users manage their daily expenses and incom
 - File Handling: (JSON / TXT)
 - CLI (Command Line Interface)
 - Python Libraries: json, datetime
+- Database: SQLite
+- Frontend: HTML, CSS
+
 ---
 
 ## ▶️ How to Run
